@@ -1,0 +1,21 @@
+[project]
+name = "comfyui-thatdamai"
+description = "Official ComfyUI Custom Nodes & In-Canvas Browser for That DAM AI (thatdamai.com) — Bidirectional Images, Local Videos (VHS / SaveVideo), and Workflow Management."
+version = "2.0.0"
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "Pillow>=9.5.0",
+    "numpy>=1.24.0",
+]
+
+[project.urls]
+Homepage = "https://thatdamai.com"
+Repository = "https://github.com/TheNitzelBot/ComfyUI-ThatDAMAI"
+Documentation = "https://github.com/TheNitzelBot/ComfyUI-ThatDAMAI#readme"
+
+[tool.comfy]
+PublisherId = "thenitzel"
+DisplayName = "That DAM AI — Images, Local Videos & Workflow Manager"
+Icon = "https://thatdamai.com/favicon.ico"
