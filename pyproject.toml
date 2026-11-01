@@ -12,8 +12,8 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://thatdamai.com"
-Repository = "https://github.com/TheNitzelBot/ComfyUI-ThatDAMAI"
-Documentation = "https://github.com/TheNitzelBot/ComfyUI-ThatDAMAI#readme"
+Repository = "https://github.com/TheNitzel/That-DAM-AI-ComfyUI-Tools"
+Documentation = "https://github.com/TheNitzel/That-DAM-AI-ComfyUI-Tools#readme"
 
 [tool.comfy]
 PublisherId = "thenitzel"

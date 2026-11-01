@@ -28,14 +28,14 @@ Supports **ComfyUI Images (`.png`, `.webp`)** and **ComfyUI Generated Videos (`.
 1. Open **ComfyUI Manager** → **Install via Git URL**
 2. Paste:
    ```text
-   https://github.com/TheNitzelBot/ComfyUI-ThatDAMAI.git
+   https://github.com/TheNitzel/That-DAM-AI-ComfyUI-Tools.git
    ```
 3. Restart ComfyUI.
 
 ### Option 2: Manual `git clone`
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/TheNitzelBot/ComfyUI-ThatDAMAI.git
+git clone https://github.com/TheNitzel/That-DAM-AI-ComfyUI-Tools.git
 ```
 
 ### Option 3: Direct `.zip` Download from That DAM AI
